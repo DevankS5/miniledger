@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+# Assignment brief: kept locally, not published
+PROJECT_BRIEF.md
