@@ -3,3 +3,4 @@ dist/
 .env
 # Assignment brief: kept locally, not published
 PROJECT_BRIEF.md
+.claude/
